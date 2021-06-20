@@ -25,6 +25,7 @@ const Sidebar = () => {
     const handleTheme = () => {
         
     }
+    
     const sidebar_variant = {
         hidden: {
             x: '-10vw',
