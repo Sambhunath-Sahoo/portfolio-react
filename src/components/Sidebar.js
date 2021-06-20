@@ -51,12 +51,12 @@ const Sidebar = () => {
             <img src={mightycoder} alt="avatar" className="sidebar__avatar" />
             <div className="sidebar__name"><strong>Sambhunath</strong> <span>Sahoo</span> </div>
             <div className="sidebar__item sidebar__title">| Web Developer | Competitive Programmer </div>
-            <a href="https://docs.google.com/spreadsheets/d/1QF5hHoUNhojZKOjFG7mYaT7PhOwoc1LW_ldCIO1QtKg/edit?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/file/d/1iX-ekm5jtTB7yNd-8yeYFw0wvKMRWR8k/view?usp=sharing" target="_blank">
                 <div className="sidebar__item sidebar__resume">
                     Resume
                 </div>
             </a>
-            <figure className="sidebar__social-icons my-2">
+            <figure className="my-2 sidebar__social-icons">
                 <a href="https://github.com/Sambhunath-Sahoo" target="_blank"><img src={github} alt="github" className="mr-3 sidebar__icon" /></a>
                 <a href="https://www.linkedin.com/in/sambhunath-sahoo-a42604182/" target="_blank"><img src={linkedin} alt="linkedin" className="mr-3 sidebar__icon" /></a>
                 <a href="https://twitter.com/sam90983497" target="_blank"><img src={twitter} alt="twitter" className="mr-3 sidebar__icon" /></a>
