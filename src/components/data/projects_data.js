@@ -15,21 +15,21 @@ const data_projects = [
         image: slack,
         deployed_url: 'https://slack-clone-2cee4.web.app/',
         github_url: 'https://github.com/Sambhunath-Sahoo/slack-clone',
-        category: ['Reactjs', 'node.js', 'ContextAPI']
+        category: ['react.js', 'node.js', 'ContextAPI']
     },
     {
         name: 'Spotify_UI',
         image: Spotify_UI,
         deployed_url: 'https://github.com/Sambhunath-Sahoo/spotify-clone',
         github_url: 'https://github.com/Sambhunath-Sahoo/spotify-clone',
-        category: ['Reactjs', 'node.js', 'ContextAPI']
+        category: ['react.js', 'node.js', 'ContextAPI']
     },
     {
         name: 'Netflix_clone',
         image: netflix,
         deployed_url: 'https://netflix-clone-9510f.web.app/',
         github_url: 'https://github.com/Sambhunath-Sahoo/netflix-clone',
-        category:['Reactjs', 'node.js', 'ContextAPI']
+        category:['react.js', 'node.js', 'ContextAPI']
     },
     {
         name: 'One-Sheet Online',
