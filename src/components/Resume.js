@@ -54,12 +54,12 @@ const Resume = () => {
                     </h4>
                     <div className="resume-card__body">
                         <h5 className="resume-card__title">
-                            {/* Intern */}
+                            Intern
                         </h5>
                         <p className="resume-card__name">
-                            {/* TCS (2020) */}
+                            SISCASO
                         </p>
-                        {/* <p className="resume-card__details">I work as a intern in TCS and also completed some projects on testing</p> */}
+                        <p className="resume-card__details">I work as a intern in SISCASO and also completed some projects on Web Development</p>
                     </div>
                 </div>
             </div>
@@ -69,7 +69,7 @@ const Resume = () => {
                     <h5 className="reume-language__heading">
                         Language and Framework
                     </h5>
-                    <div className="resume-language__body mt-3">
+                    <div className="mt-3 resume-language__body">
                         {
                             languages.map(language =>
                                 <Bar value={language} />
@@ -81,7 +81,7 @@ const Resume = () => {
                     <h5 className="reume-language__heading">
                         Tools and Softwares
                     </h5>
-                    <div className="resume-language__body mt-3">
+                    <div className="mt-3 resume-language__body">
                         {
                             tools.map(tool => <Bar value={tool} />)
                         }
