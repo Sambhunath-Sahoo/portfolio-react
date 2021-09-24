@@ -82,7 +82,7 @@ const Sidebar = () => {
                 <div className="sidebar__item"><b>+91-9078164602</b></div>
                 {/* <div className="sidebar__item">sambhunathsahoo25@gmail.com</div> */}
             </div>
-            <div className="sidebar__item sidebar__theme" onClick={handleTheme}>change theme</div>
+            {/* <div className="sidebar__item sidebar__theme" onClick={handleTheme}>change theme</div> */}
             {/* <div className="sidebar__item sidebar__email" onClick={handleEmailMe}>email me</div> */}
         </motion.div>
     )
