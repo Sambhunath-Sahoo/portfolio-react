@@ -75,7 +75,7 @@
 
 // I have strong problem-solving skills, with a willingness to learn new technologies and take up roles that are challenging and full of learning.
 
-// I am open to exciting intern as well as full-time roles, with my graduation completing in Jun 2022, in the field of Software Engineering. You can reach out to me for any such opportunity at sambhunathsahoo25@gmail.com
+// I am open to exciting intern as well as full-time roles, with my graduation completing in Jun 2022, in the field of Software Engineering. You can reach out to me for any such opportunity at sambhu05357@gmail.com
 //             </h6>
 //             <div className="container about__container">
 //                 <h6 className="about__heading">What I offer</h6>
