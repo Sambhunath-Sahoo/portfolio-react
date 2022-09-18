@@ -71,7 +71,7 @@ const Sidebar = () => {
                     <a href="https://medium.com/@sambhunathsahoo25" target="_blank"><img src={blog} alt="bolg" className="mr-3 sidebar__icon" /></a>
                 </div>
                 <div className="sidebar__item">
-                    <a href="https://www.google.com/maps/place/Sundargarh,+Odisha/@22.0833393,83.7454248,8.88z/data=!4m5!3m4!1s0x3a20ecc12a16f439:0xfd914ce07d2ebaac!8m2!3d22.0571189!4d84.6897495" target="_blank"><img src={map} alt="mail" className="mr-3 sidebar__icon"/></a>
+//                     <a href="https://www.google.com/maps/place/Sundargarh,+Odisha/@22.0833393,83.7454248,8.88z/data=!4m5!3m4!1s0x3a20ecc12a16f439:0xfd914ce07d2ebaac!8m2!3d22.0571189!4d84.6897495" target="_blank"><img src={map} alt="mail" className="mr-3 sidebar__icon"/></a>
                     <a href="" target="_blank"><img src={google} alt="mail" className="mr-3 sidebar__icon" onClick={handleEmailMe}/></a>
                 </div>
             </div>
