@@ -51,7 +51,7 @@ const Sidebar = () => {
             <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFpFirumhb6og/profile-displayphoto-shrink_400_400/0/1653187278030?e=1668643200&v=beta&t=YJazB8nJmQjSA4NMOlvIkk7ikEr4en0_5DY2Qk28-9o" alt="avatar" className="sidebar__avatar" />
             <div className="sidebar__name"><strong>Sambhunath</strong> <span>Sahoo</span> </div>
             <div className="sidebar__item sidebar__title">| Web Developer | Competitive Programmer </div>
-            <a href="https://drive.google.com/file/d/1NXHS_kSnKVHF-E9phGvOY2movKXZpUCK/view" target="_blank">
+            <a href="https://drive.google.com/file/d/1gJhPqMpVsI0rDbEPvbo9vHlhA8obMXlu/view" target="_blank">
                 <div className="sidebar__item sidebar__resume">
                     Resume
                 </div>
