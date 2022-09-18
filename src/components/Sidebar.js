@@ -76,9 +76,9 @@ const Sidebar = () => {
                 </div>
             </div>
             <div className="sidebar__contact">
-                <div className="sidebar__item sidebar__location">
-                    <b>Odisha, India</b>
-                </div>
+//                 <div className="sidebar__item sidebar__location">
+//                     <b>Odisha, India</b>
+//                 </div>
                 <div className="sidebar__item">sambhu05357@gmail.com</div>
             </div>
             {/* <div className="sidebar__item sidebar__theme" onClick={handleTheme}>change theme</div> */}
