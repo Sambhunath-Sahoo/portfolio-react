@@ -60,7 +60,7 @@ const Sidebar = () => {
                 <a href="https://github.com/Sambhunath-Sahoo" target="_blank"><img src={github} alt="github" className="mr-3 sidebar__icon" /></a>
                 <a href="https://www.linkedin.com/in/sambhunath-sahoo-a42604182/" target="_blank"><img src={linkedin} alt="linkedin" className="mr-3 sidebar__icon" /></a>
                 <a href="https://twitter.com/sam90983497" target="_blank"><img src={twitter} alt="twitter" className="mr-3 sidebar__icon" /></a>
-                <a href="https://www.instagram.com/stray.21/" target="_blank"><img src={instagram} alt="instagram" className="mr-3 sidebar__icon" /></a>
+                <a href="https://www.instagram.com/_hey.sams/" target="_blank"><img src={instagram} alt="instagram" className="mr-3 sidebar__icon" /></a>
                 <a href="https://www.facebook.com/sambhu.sahoo.581/" target="_blank"><img src={facebook} alt="facebook" className="mr-3 sidebar__icon" /></a>
             </figure>
             <div className="sidebar__contact">
