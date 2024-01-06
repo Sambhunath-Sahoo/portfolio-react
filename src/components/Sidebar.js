@@ -59,7 +59,7 @@ const Sidebar = () => {
             <figure className="my-2 sidebar__social-icons">
                 <a href="https://github.com/Sambhunath-Sahoo" target="_blank"><img src={github} alt="github" className="mr-3 sidebar__icon" /></a>
                 <a href="https://www.linkedin.com/in/sams25/" target="_blank"><img src={linkedin} alt="linkedin" className="mr-3 sidebar__icon" /></a>
-                <a href="https://twitter.com/sam90983497" target="_blank"><img src={twitter} alt="twitter" className="mr-3 sidebar__icon" /></a>
+                 {/*<a href="https://twitter.com/sam90983497" target="_blank"><img src={twitter} alt="twitter" className="mr-3 sidebar__icon" /></a>*/}
                 <a href="https://www.instagram.com/_hey.sams/" target="_blank"><img src={instagram} alt="instagram" className="mr-3 sidebar__icon" /></a>
                 <a href="https://www.facebook.com/sambhu.sahoo.581/" target="_blank"><img src={facebook} alt="facebook" className="mr-3 sidebar__icon" /></a>
             </figure>
